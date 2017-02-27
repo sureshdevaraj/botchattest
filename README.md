@@ -25,7 +25,7 @@ npm run build
 npm run start
 `
 
-... or just run it [here](https://botchattest.herokuapp.com)
+... or just run it [here](https://vzwebchatbot.herokuapp.com/)
 
 
 ## Deploying to Heroku
