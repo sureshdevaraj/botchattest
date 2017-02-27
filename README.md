@@ -26,3 +26,17 @@ npm run start
 `
 
 ... or just run it [here](https://botchattest.herokuapp.com)
+
+
+## Deploying to Heroku
+
+```
+$ heroku create
+$ git push heroku master
+$ heroku open
+```
+or
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+## Documentation
